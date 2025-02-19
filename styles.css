@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('img/download.jpg');
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 100vh;
+}
+
+header {
+    background-image: url('download.jpg');
+    color: white;
+    padding: 15px;
+    font-size: 24px;
+    font-weight: bold;
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background: skyblue;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.container1 {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 10px;
+    background: greenyellow;
+}
+
+.buttons {
+    max-width: 6000px;
+    margin: 10px auto;
+    padding: 1px;
+    background: skyblue;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.social-links a {
+    margin: 10px;
+    text-decoration: none;
+    color: #0073e6;
+    font-weight: bold;
+}
+
+.buttons {
+    margin-top: 20px;
+}
+
+.buttons button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background-color: #0073e6;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.buttons button:hover {
+    background-color: #005bb5;
+}
+
+footer {
+    margin-top: 10px;
+    background-color: rgb(167, 218, 239);
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+}
+ 
